@@ -1,6 +1,6 @@
 # lista_tarefas
 
-A new Flutter application.
+Possibilidade de adiconar, remover e desfazer (ao excluir) uma tarefa que foi adicionada.
 
 ## Getting Started
 
